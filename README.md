@@ -3,6 +3,12 @@
 <p align="center">
   <code>ML Engineer</code> • <code>Mechanical Engineer</code> • <code>Industrial AI Builder</code>
 </p>
+<p align="center">
+🐬 surfing the data ocean
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=650&lines=AI+for+Engineering+Systems;Physics+Aware+Machine+Learning;Graph+Based+Intelligence;Industrial+AI+Builder"/>
+</p>
 
 <p align="center">
   <b>Building intelligent systems for real engineering problems</b><br>
@@ -72,12 +78,12 @@ manuel = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" width="20" /> Cool stuff
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelcaipocc&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelcaipocc&layout=compact&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelcaipocc&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelcaipocc&layout=compact&hide_border=true&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manuelcaipocc&theme=transparent&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=manuelcaipocc&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> Currently into
