@@ -1,4 +1,6 @@
-<h1 align="center">Manuel Caipo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Manuel%20Caipo&fontSize=55&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=manuelcaipocc&color=blueviolet&style=flat-square"/>
