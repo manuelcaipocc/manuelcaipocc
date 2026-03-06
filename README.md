@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=720&lines=Machine+Learning;Data+Engineering;Intelligent+Systems;AI+for+Engineering+Systems;Physics+Aware+Machine+Learning"/>
-</p>>
+</p>
 
 <p align="center">
   <b>Building intelligent systems for real engineering problems</b><br>
