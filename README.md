@@ -1,6 +1,10 @@
 <h1 align="center">Manuel Caipo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=manuelcaipocc&color=blueviolet&style=flat-square"/>
+</p>
+
+<p align="center">
   <code>ML Engineer</code> • <code>Mechanical Engineer</code> • <code>Industrial AI Builder</code>
 </p>
 <p align="center">
@@ -75,10 +79,22 @@ manuel = {
   <code>Industrial AI</code>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=100&section=footer"/>
+</p>
+
 ## 🔥 Cool stuff
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=manuelcaipocc&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manuelcaipocc&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manuelcaipocc&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> Currently into
@@ -92,4 +108,9 @@ manuel = {
 
 <p align="center">
   <i>code with structure • models with meaning • engineering with intelligence</i>
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
