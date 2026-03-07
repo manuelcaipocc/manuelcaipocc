@@ -103,12 +103,16 @@ manuel = {
 - ⚙️ Hydraulic systems intelligence
 - 🏗️ AI that understands system structure, not only signals
 
+
 ---
 
 <p align="center">
   <i>code with structure • models with meaning • engineering with intelligence</i>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/demo.svg"/>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
