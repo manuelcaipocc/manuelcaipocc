@@ -110,6 +110,9 @@ manuel = {
   <i>code with structure • models with meaning • engineering with intelligence</i>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelcaipocc&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
