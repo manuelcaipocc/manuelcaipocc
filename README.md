@@ -7,19 +7,23 @@
 </p>
 
 <p align="center">
-  <code>ML Engineer</code> • <code>Mechanical Engineer</code> • <code>Industrial AI Builder</code>
+  <code>ML Engineer</code> • <code>Mechanical Engineer</code> • <code>Industrial AI Builder</code> • <code>Research-Oriented</code>
 </p>
+
 <p align="center">
 🐬 surfing the data ocean
 </p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=720&lines=Machine+Learning;Data+Engineering;Intelligent+Systems;AI+for+Engineering+Systems;Physics+Aware+Machine+Learning"/>
 </p>
 
 <p align="center">
   <b>Building intelligent systems for real engineering problems</b><br>
-  <sub>⚙️ physics-aware ML • 🧠 graph learning • 📡 industrial data • 🏭 digital twins</sub>
+  <sub>⚙️ physics-aware ML • 🧠 graph learning • 📡 industrial data • 🏭 digital twins</sub><br>
+  <sub>🎓 exploring research directions toward a future PhD</sub>
 </p>
+
 
 <p align="center">
   <a href="https://manuelcaipocc.github.io/cv-mcaipocc/">
@@ -41,13 +45,13 @@
 ```python
 manuel = {
     "role": "AI engineer for engineered systems",
-    "works_on": [
-        "predictive maintenance",
-        "condition monitoring",
-        "graph-based representations",
+    "interests": [
         "physics-aware machine learning",
-        "industrial ML pipelines"
+        "graph-based representations",
+        "industrial intelligence",
+        "AI for engineering systems"
     ],
+    "status": "exploring PhD opportunities in AI for engineering systems",
     "vibe": "research x software x engineering"
 }
 ```
